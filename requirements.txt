@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+joblib
+yfinance
+snscrape
+textblob
+vaderSentiment
+tensorflow==2.14.1
+python-dotenv
+flask
+flask-cors
+gunicorn

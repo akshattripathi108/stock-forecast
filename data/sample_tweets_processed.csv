@@ -1,0 +1,6 @@
+Date,username,content,sentiment
+2024-01-01,user1,"Stock market is doing great! Bulls are back.",0.8
+2024-01-02,user2,"I think AAPL will go down, worried about earnings.",-0.3
+2024-01-03,user3,"Buying opportunities today.",0.5
+2024-01-04,user4,"Market crash incoming, panic all around.",-0.9
+2024-01-05,user5,"Holding my positions, steady growth.",0.2
