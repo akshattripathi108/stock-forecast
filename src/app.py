@@ -8,7 +8,7 @@ from flask_cors import CORS
 
 load_dotenv()
 
-API_KEY = os.getenv("API_KEY", "changeme")
+API_KEY = os.getenv("API_KEY", "d4o0ejhr01qk2nuecia0d4o0ejhr01qk2nueciag")
 STATIC_DIR = os.path.join(os.path.dirname(__file__), "..", "frontend")
 PRED_DIR = os.path.join(os.path.dirname(__file__), "..")
 SENT_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
