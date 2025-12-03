@@ -9,4 +9,4 @@ services:
       - .:/app
     environment:
       - PYTHONUNBUFFERED=1
-      - API_KEY=changeme
+      - API_KEY= "d4o0ejhr01qk2nuecia0d4o0ejhr01qk2nueciag"
